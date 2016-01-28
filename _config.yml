@@ -1,0 +1,28 @@
+name: FinTech Online
+favicon: null
+layout_spectrum: 0.20592356496490538
+typography_spectrum: 0.9103610666934401
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9672728418372571
+  lightness: 0.1766643465962261
+  saturation: 0.21345338877290487
+  rhythmicContrast: 0.2373165658209473
+purpose: []
