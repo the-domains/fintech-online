@@ -1,7 +1,7 @@
 name: FinTech Online
 favicon: null
-layout_spectrum: 0.31908568809740245
-typography_spectrum: 0.6316631869412959
+layout_spectrum: 0.42839106475003064
+typography_spectrum: 0.9899644774850458
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.2811617781408131
-  lightness: 0.7844303664751351
-  saturation: 0.8549993950873613
-  rhythmicContrast: 0.5556484854314476
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6533388961106539
+  lightness: 0.6769188693724573
+  saturation: 0.365917592542246
+  rhythmicContrast: 0.38472040998749435
 purpose: []
